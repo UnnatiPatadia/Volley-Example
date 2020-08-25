@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volley Example</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="something_went_wrong">Something went wrong.Please try again after some time.</string>
+    <string name="server_error_msg">Server Not Responding.Please try again Later</string>
+</resources>
